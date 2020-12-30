@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[16]:
-
-
 #GCD using Euclidean Algo
 
 def gcd(a, b):
@@ -12,4 +6,3 @@ def gcd(a, b):
     else:
         return(gcd(b%a, a))
 gcd(120, 0)
-
