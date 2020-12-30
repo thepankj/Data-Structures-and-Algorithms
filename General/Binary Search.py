@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 def binarySearch(arr, x):
     start = 0
     end = len(arr)
